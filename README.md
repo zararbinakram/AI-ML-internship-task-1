@@ -74,6 +74,4 @@ If models were to be applied later, common options include:
   * Help identify **outliers**, especially in `sepal_width`.
   * Distinct differences in medians and ranges across species, especially for `petal_length`.
 
----
 
-Let me know if you want this as a **PDF or report file**, or if you want to extend it with machine learning models.
